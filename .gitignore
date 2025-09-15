@@ -5,6 +5,7 @@ target/
 build/
 out/
 !.mvn/wrapper/maven-wrapper.jar
+*.class
 
 # =========================
 # IDE / Editors
