@@ -1,0 +1,62 @@
+# =========================
+# Java / Spring / Quarkus
+# =========================
+target/
+build/
+out/
+!.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# IDE / Editors
+# =========================
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.sw?
+*.swo
+*.bak
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+logs/
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+
+# =========================
+# Environment / Config
+# =========================
+*.env
+.env.*
+application-*.yml
+application-*.yaml
+application-*.properties
+config/
+secrets/
+db/
+*.db
+
+# =========================
+# Dependency caches
+# =========================
+.mvn/
+.gradle/
+node_modules/
+.cache/
+*.lock
+
+# =========================
+# Custom: Internship submissions
+# =========================
+private-submissions.md
